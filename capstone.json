@@ -1,11 +1,11 @@
 {
   "menu": [
     {
-      "name": "Greek Salad",
+      "name": "Skyblock Stranded",
       "price": 12.99,
-      "description": "Our delicious salad is served with Feta cheese and peeled cucumber. Includes tomatoes, onions, olives, salt and oregano in the ingredients.",
-      "image": "greekSalad.jpg",
-      "category": "starters"
+      "description": "Looking for a challenge? Try out the new Stranded mode where you can play solo or co-op, ironman rules apply, and most importantly... You can't leave your island!.",
+      "image": "hypixelskyblockstranded.jpg",
+      "category": "forums"
     },
     {
       "name": "Bruschetta",
